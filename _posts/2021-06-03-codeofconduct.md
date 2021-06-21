@@ -6,4 +6,5 @@ fa-icon: group
 ---
 
 ## SaaS Slack Community Code of Conduct ##
-This is work in progress...
+We encourage participation from varied and diverse backgrounds. 
+Code of conduct will be posted here soon.
