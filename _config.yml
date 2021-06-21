@@ -17,7 +17,7 @@ markdown: kramdown
 title:       "Saas Slack Group"
 keywords:    "saas, software as a service, startup, slack, saas development, saas platform, all about saas"
 description: "Public landing page for SaaS Slack group. Read code of conduct, request invite here."
-source_link: "http://sriramsub.github.io"
+source_link: "https://saas-community.github.io/"
 favicon:     "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
